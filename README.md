@@ -1,2 +1,2 @@
 # SeEx9
-![build status](https://travis-ci.com/rstegm/SeEx9.svg?branch=master)
+[![Build Status](https://travis-ci.com/rstegm/SeEx9.svg?branch=master)](https://travis-ci.com/rstegm/SeEx9)
